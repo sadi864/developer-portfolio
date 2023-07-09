@@ -29,7 +29,7 @@ body {
 .section-description {
     color: #757575;
     text-align: center;
-    font-size: 18px;
+    font-size: 15px;
 }
 
 /* nav related style */
@@ -167,4 +167,13 @@ main section {
 .download-cv{
     text-align: center;
     margin-top: 50px;
+}
+
+/* footer work start */
+
+footer{
+    display: flex;
+    background: #FFF8F3;
+    margin-top: 100px;
+    padding: 130px 200px;
 }
